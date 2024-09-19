@@ -25,10 +25,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahmetakay24/ahmetakay24/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">Connect with me :</p>
 
 ###
